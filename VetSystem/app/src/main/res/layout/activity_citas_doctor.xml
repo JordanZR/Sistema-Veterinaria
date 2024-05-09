@@ -45,7 +45,7 @@
             android:layout_height="wrap_content"
             >
             <TextView
-                android:text="Doctor: Jose Guevara"
+                android:text="Paciente: Carlos Gonzalez"
                 android:gravity="center"
                 android:textColor="@color/white"
                 android:textSize="25sp"
@@ -86,7 +86,7 @@
             android:layout_height="wrap_content"
             >
             <TextView
-                android:text="Doctor: Jose Guevara"
+                android:text="Paciente: Carlos Gonzalez"
                 android:gravity="center"
                 android:textColor="@color/white"
                 android:textSize="25sp"
@@ -128,7 +128,7 @@
             android:layout_height="wrap_content"
             >
             <TextView
-                android:text="Doctor: Jose Guevara"
+                android:text="Paciente: Carlos Gonzalez"
                 android:gravity="center"
                 android:textColor="@color/white"
                 android:textSize="25sp"
