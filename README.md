@@ -9,3 +9,5 @@ Link Mock Ups: https://mockitt.wondershare.com/proto/f3uJUHgvs8r6z0FDfPAmUP/shar
 Licencia Creative Common utilizada: Se hará uso de la licencia tipo By, que permite la comercialización de dicha obra. En este caso, será mediante el uso de la fuente Roboto-regular de Google.
 
 Fuente utilizada: https://fonts.google.com/specimen/Roboto/about
+
+Video Fase II: https://youtu.be/se7K9jeQ-ds
