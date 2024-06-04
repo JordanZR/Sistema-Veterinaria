@@ -10,4 +10,4 @@ Licencia Creative Common utilizada: Se hará uso de la licencia tipo By, que per
 
 Fuente utilizada: https://fonts.google.com/specimen/Roboto/about
 
-Video Fase II: https://youtu.be/se7K9jeQ-ds
+Video: https://youtu.be/se7K9jeQ-ds
